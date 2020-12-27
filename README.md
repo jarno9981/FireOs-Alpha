@@ -8,6 +8,6 @@ A new os For your pc (you can help if you want)
 
 :x: kernel 
 
-:V: 64bit
+:white_check_mark: 64bit
 
 Coming soon
