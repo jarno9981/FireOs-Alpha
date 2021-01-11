@@ -1,6 +1,8 @@
 # FireOs-Alpha
 A new os For your pc (you can help if you want)
 
+requires linux subsuystem wsl2
++qemu-system-x86_64
 
 :x: code
 
